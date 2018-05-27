@@ -1,0 +1,9 @@
+.git*
+.vscode
+.nuxt
+node_modules
+yarn*
+build
+README.md
+Dockerfile
+.dockerignore
